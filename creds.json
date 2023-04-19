@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bom-tool-project-tracker",
+  "private_key_id": "5e0e03ec5b8223042d40a721931106cbcb9a064b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCLRgjemTuZEK+U\nsoDIU5b7Mq+2RFaoYAEGqDUH6RpUAgE9velOt9ZMfAjNI+wCg+4ZEE6Z08azGyu5\nC8bftyZAYcoojuDmbSHLRwAedrkYd5ZhckficVH2eb19ELLhzJfpzQvzsyJpr8L1\nVTfmpy02eMvmDF4/IV0T1eFKFsh0OKNEBicKWBrL5AuwyvOxamE0nchQNSh0bTen\nPDtRAYMXKySMV51fdSs0rC4R4oglMfM6sJCpyAaXnNzXcG050giZEAaihcxmEvB1\nhdGm+aYg60qzsQ7KyyPsnk5moLSJo5kdhpIpPacFhdOJeNLf5Os5b5rLHhE66WNV\ndiROdwTjAgMBAAECggEAAkaVJqcPzE6vSnMN14TwRrGR7mEa0ahOVZX6tB6WO77p\nLIw63YMm0zWD5wjhkAgoxknNU0IDFX8QOkyRB+/8qBaocITRa0nwBLEsG6ioTTX6\nw/C6CbR0dHfWPyQLLZD03OhpBHPL4UnQiPocOyCslZZopXKHfU+n6vXsDGnN9Nel\n5ysi0oWb2rww94N6dulou1/+wPF4VVsVFnaXal1ZfpoyULuEtrzfMCANE/qGOQYX\ncNxZ/kw1XmbpKk8W6oB32uc+KUJb8X0fwz1Fu1Y2V73XPffmRyM3HZ7ydEWpyoao\nnWZDsoEmht9OSgtua04SDsi6hfdBbK0/bWxyViX1MQKBgQDDfMKBXmuATcgfulxw\nGnXQp54CmVLrj7hqUY3EUwrJhBwKGcMz1WgwE+SpNZ7n5jcWRpadtPnB9VgkLj8g\nyeCnfGKV9ObDAAD4UayYRWVQIvcZPSZjWjryAobxU0+7/VKDUzjw05f9uhU0OCvZ\nOQa7+dVN+vxSOYMwpI0/ElUt+QKBgQC2Yqi1GdYCl5kFSzDr+yKc49e5H20pE8Pi\nXnGpTOzcjWEm6VoaTUDoBR5woQJIbaH/W4UdNcgNePjR7sLxcArTUz05/TLzH3fP\n3ALPsvfopENTV+yb5Fth1D4CZ2OaM8HrRY8TyZAvtDgynxfruNLcskZE5sigmPH1\nbVmY5Y3wuwKBgAx2XagFrvDFBKcRKGd1KGGe7fHYeHLP/L+6Z0FG0f86ztbOAaXC\nSxwViJRI+NJr2MMwyNVQ/kMhMvdLg3bBp/LFeTt6G2P/EhDClDA47FaJhBs1zMa0\nr+FRy+yClSi045e/rHed5ailPkjP8+urOQSuzqxj/cX4KKbnNqH4tzlxAoGAJGdS\n1zr97WyG3Xihnih1Qy1zDH9KUY2hZpiFRU6WZHtPre2bz24mC2miJsbsZrqDQC3r\nRuZKNO41c+mdPYWok3+k0+NG/SIFzxZR9VT6iJPo4ETHdGJDHya27dHnHotAJI6w\nvTlZLzxgjzIUGze71tM6lVwfJXcBrIQUAyGmkCsCgYEAuZ2Xc99Eu5rhOXS7vLdx\ntIF0fG71Fwc8yftCz0yNVL6URQft/8j59YbygJiScX4BzngGrUB7ne1NGxyDAcUr\nfuqmHjDs/mf6XDa5KnH3P3kI/n4OS3OdoT/maQ+hquapsMYmyF7Csv8xFFuwiGje\nr8Jj1RjqrvMkrOGI3Bj6/ks=\n-----END PRIVATE KEY-----\n",
+  "client_email": "damian@bom-tool-project-tracker.iam.gserviceaccount.com",
+  "client_id": "110016106986291258950",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/damian%40bom-tool-project-tracker.iam.gserviceaccount.com"
+}

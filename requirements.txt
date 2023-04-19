@@ -1,0 +1,7 @@
+streamlit == 1.15.2
+pandas == 1.4.4
+openpyxl == 3.0.10
+google-auth == 2.15.0
+google-auth-oauthlib == 0.7.1
+gspread == 5.7.1
+oauth2client == 4.1.3
